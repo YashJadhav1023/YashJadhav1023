@@ -1,80 +1,82 @@
-<div align="center">
-<img src="https://www.google.com/search?q=https://avatars.githubusercontent.com/u/YOUR-GITHUB-ID%3Fv%3D4" width="150px" alt="Yash Jadhav's GitHub Avatar"/>
-<h1>Hi there, I'm Yash Jadhav! 👋</h1>
-</div>
+Hi there, I'm Yash Jadhav! 👋
+Passionate and results-driven Computer Engineering student skilled at building and securing digital infrastructure. Armed with a CCNA certification and practical experience from a cloud computing internship, I have a proven foundation in network configuration, Linux system administration, and core AWS services. Eager to apply this diverse skill set in a challenging entry-level role, with a clear focus on mastering DevOps methodologies.
 
-About Me
-I'm a passionate and results-driven Computer Engineering student with a strong foundation in building and securing digital infrastructure. Currently pursuing my Bachelor of Engineering at Vidya Vikas Pratishthan Institute of Engineering & Technology, I'm eager to apply my diverse skill set in an entry-level role, with a clear focus on mastering DevOps methodologies.
-
-My journey includes practical experience from a cloud computing internship and certifications in CCNA and AWS, demonstrating a proven understanding of network configuration, Linux system administration, and core AWS services.
-
-🎓 Education: Bachelor of Engineering in Computer Engineering (Pursuing)
-
-🚀 Goal: To master DevOps methodologies and contribute to scalable and secure cloud solutions.
-
-💡 Interests: Cloud Computing, Network Security, System Administration, Automation.
-
-Skills & Technologies
-Here are some of the tools and technologies I'm proficient in:
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS Badge"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CCNA-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dcisco%26logoColor%3Dwhite" alt="CCNA Badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/DevOps-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dazuredevops%26logoColor%3Dwhite" alt="DevOps Badge"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git Badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase%26logoColor%3Dblack" alt="Firebase Badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker Badge"/>
-</p>
-
-Cloud Platforms (AWS): EC2, S3, VPC, IAM, RDS, ELB, DynamoDB, CloudWatch, Lambda, WAF, Route 53, EBS, AMI, SNS, SQS
-Databases: MySQL
-Networking (CCNA): Routing (OSPF, EIGRP), VLANs, Subnetting, ACLs, VPN, Cisco Packet Tracer
-System Administration (Linux): User/Group management, Permissions, Disk management, SSH, Bash scripting
-DevOps & Automation: Git, CI/CD Pipelines (future focus on Docker, Kubernetes, Terraform)
-
-Featured Projects
-Here are some projects I'm particularly proud of:
-
+🔗 Connect with me
+💻 Skills
+Cloud Platforms (AWS)
+Networking
+System Administration & Automation
+DevOps & Tools
+Programming Languages
+🚀 Projects
 Cloud-Based AI Face Recognition System
+Technologies: AWS (EC2, S3, Lambda), Python, APIs, PyTorch, Firebase.
 
-Developed a real-time facial recognition tool for automated attendance and user authentication.
+Description: Architected and deployed a full-stack facial recognition system integrating AWS EC2, S3, and Lambda. Utilized PyTorch and Firebase for real-time synchronization. Successfully enabled automated attendance and user authentication for 50+ users. Published a paper in IJARESM.
 
-Technologies: AWS (EC2, S3, Lambda), APIs, Firebase. (Note: Python and PyTorch were removed as primary badge focuses, but are still implied by the project description if you used them)
-
-Impact: Successfully enabled automated attendance and user authentication for over 50 users.
-
-(Published a paper in IJARESM for this project)
+Period: Nov 2024 - Dec 2024
 
 Secure Dynamic Web Application Deployment on AWS
-
-Architected a robust and secure cloud infrastructure for a dynamic web application.
-
 Technologies: AWS EC2, S3, VPC, IAM, Linux, Git.
 
-Focus: Network isolation, decoupled storage, and principle of least privilege.
+Description: Architected and deployed a robust and secure web application on an EC2 instance within a custom VPC. Configured an S3 bucket for application assets and implemented IAM roles for least privilege.
+
+Period: Jul 2025
 
 Host a Static Website on Amazon S3
+Services used: Amazon S3.
 
-Deployed and configured a static website using Amazon S3 for public access.
+Description: Deployed a static website using Amazon S3 and configured it for public access, gaining hands-on experience with S3 bucket creation, object management, and static website hosting.
 
-Technologies: Amazon S3.
+Period: Jul 2025
 
-Certifications & Courses
-Internship in Cloud Computing (Mar 2024)
+💼 Experience
+Seven Mentor
+Role: Course in CCNA, LINUX, AWS, DEVOPS
 
-Course in CCNA (Mar 2025)
+Location: Pune, India
 
-Course in AWS (Jun 2025)
+Period: Mar 2025 - Present
 
-Connect with Me
-LinkedIn: Yash Jadhav
+Responsibilities:
 
-Email: jadhavpc0707@gmail.com
+Implemented and maintained network infrastructure based on CCNA principles, focusing on subnetting, VLANs, and routing for secure and efficient data communication.
 
-Phone: +91-7058276087
+Deployed and managed core AWS services including EC2, S3, IAM, and VPC. Hosted a static website on S3 and a dynamic application on EC2, demonstrating practical application of cloud resources.
 
-<div align="center">
-Visitors: <img src="https://www.google.com/search?q=https://profile-counter.glitch.me/YOUR-GITHUB-USERNAME/count.svg" alt="profile views"/>
-</div>
+Performed system-level tasks such as user and group management, disk management, and setting file permissions. Wrote Bash scripts for job automation and routine maintenance.
+
+Currently expanding skill set to include DevOps methodologies and tools for CI/CD.
+
+Acmegrade
+Role: Intern in Cloud Computing
+
+Location: Solapur, India
+
+Period: Mar 2024 - Apr 2024
+
+Responsibilities:
+
+Contributed to infrastructure improvement initiatives by optimizing cloud deployments across 5 diverse environments, achieving a 25% reduction in configuration errors through best practices.
+
+🎓 Education
+Vidya Vikas Pratishthan Institute of Engineering & Technology
+Degree: Bachelor of Engineering in Computer Engineering [Pursuing]
+
+Location: Solapur, India
+
+Period: 2022 - 2025
+
+A. G. Patil Polytechnic Institute
+Degree: Diploma in Computer Engineering [75.89%]
+
+Location: Solapur, India
+
+Period: 2019 - 2022
+
+🏆 Certifications
+Internship in Cloud Computing - Mar 2024
+
+Course in CCNA - Mar 2025
+
+Course in AWS - Jun 2025
