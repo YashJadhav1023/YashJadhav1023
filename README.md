@@ -1,82 +1,95 @@
-Hi there, I'm Yash Jadhav! 👋
-Passionate and results-driven Computer Engineering student skilled at building and securing digital infrastructure. Armed with a CCNA certification and practical experience from a cloud computing internship, I have a proven foundation in network configuration, Linux system administration, and core AWS services. Eager to apply this diverse skill set in a challenging entry-level role, with a clear focus on mastering DevOps methodologies.
+<div align="center">
 
-🔗 Connect with me
-💻 Skills
-Cloud Platforms (AWS)
-Networking
-System Administration & Automation
-DevOps & Tools
-Programming Languages
-🚀 Projects
-Cloud-Based AI Face Recognition System
-Technologies: AWS (EC2, S3, Lambda), Python, APIs, PyTorch, Firebase.
+<h1>Hi there 👋, I'm Yash Jadhav!</h1>
+<h3>✨ Cloud & DevOps Enthusiast | Computer Engineering Student ✨</h3>
+<br>
+</div>
 
-Description: Architected and deployed a full-stack facial recognition system integrating AWS EC2, S3, and Lambda. Utilized PyTorch and Firebase for real-time synchronization. Successfully enabled automated attendance and user authentication for 50+ users. Published a paper in IJARESM.
+About Me
+Passionate Computer Engineering student with a CCNA certification and practical cloud computing internship experience. I am skilled in AWS, Linux, and networking, and eager to apply my diverse skill set in an entry-level role, focusing on mastering DevOps methodologies.
 
-Period: Nov 2024 - Dec 2024
+🚀 Skills & Expertise
+Here are some of my key skills and technologies:
 
-Secure Dynamic Web Application Deployment on AWS
-Technologies: AWS EC2, S3, VPC, IAM, Linux, Git.
+<div align="center">
+<!-- Core Technologies -->
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/>
+<img src="https://img.shields.io/badge/Networking-007FFF?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking Badge"/>
+<img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=circleci&logoColor=white" alt="CI/CD Badge"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge"/>
+<br><br> <!-- Added spacing -->
 
-Description: Architected and deployed a robust and secure web application on an EC2 instance within a custom VPC. Configured an S3 bucket for application assets and implemented IAM roles for least privilege.
+<!-- Specific AWS Services (Grouped for better visual flow) -->
 
-Period: Jul 2025
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="EC2 Badge"/>
+<img src="https://img.shields.io/badge/S3-5694D6?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="S3 Badge"/>
+<img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logoColor=white" alt="VPC Badge"/>
+<img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazon-iam&logoColor=white" alt="IAM Badge"/>
+<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white" alt="RDS Badge"/>
+<img src="https://img.shields.io/badge/ELB-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="ELB Badge"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB Badge"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" alt="CloudWatch Badge"/>
+<img src="https://img.shields.io/badge/ASG-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="ASG Badge"/>
+<img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=aws-cloudformation&logoColor=white" alt="CloudFormation Badge"/>
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="Lambda Badge"/>
+<img src="https://img.shields.io/badge/WAF-FF9900?style=for-the-badge&logo=aws-waf&logoColor=white" alt="WAF Badge"/>
+<img src="https://img.shields.io/badge/Beanstalk-FF9900?style=for-the-badge&logo=aws-elastic-beanstalk&logoColor=white" alt="Beanstalk Badge"/>
+<img src="https://img.shields.io/badge/Route%2053-FF9900?style=for-the-badge&logo=amazon-route-53&logoColor=white" alt="Route 53 Badge"/>
+<img src="https://img.shields.io/badge/EBS-FF9900?style=for-the-badge&logo=amazon-ebs&logoColor=white" alt="EBS Badge"/>
+<img src="https://img.shields.io/badge/AMI-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AMI Badge"/>
+<img src="https://img.shields.io/badge/SNS-FF9900?style=for-the-badge&logo=amazon-sns&logoColor=white" alt="SNS Badge"/>
+<img src="https://img.shields.io/badge/SQS-FF9900?style=for-the-badge&logo=amazon-sqs&logoColor=white" alt="SQS Badge"/>
+</div>
 
-Host a Static Website on Amazon S3
-Services used: Amazon S3.
+<h3>🛠️ Experience</h3>
+<h4>Seven Mentor | Pune, India</h4>
+<strong>Course in CCNA, LINUX, AWS, DEVOPS</strong> | March 2025 - Present
+<ul>
+<li>Implemented and maintained network infrastructure (subnetting, VLANs, routing).</li>
+<li>Deployed and managed AWS services (EC2, S3, IAM, VPC), hosting static and dynamic websites.</li>
+<li>Performed Linux system administration and automated tasks with Bash scripts.</li>
+</ul>
 
-Description: Deployed a static website using Amazon S3 and configured it for public access, gaining hands-on experience with S3 bucket creation, object management, and static website hosting.
+<h4>Acmegrade | Solapur, India</h4>
+<strong>Intern in Cloud Computing</strong> | March 2024 - April 2024
+<ul>
+<li>Optimized cloud deployments across 5 environments, reducing configuration errors by 25%.</li>
+</ul>
 
-Period: Jul 2025
+ <h3>💡Projects</h3>
+<h4>Cloud-Based AI Face Recognition System</h4>
+<ul>
+<li>Developed a real-time facial recognition tool using AWS (EC2, S3, Lambda), Python, and Firebase. Published a paper in IJARESM.</li>
+</ul>
 
-💼 Experience
-Seven Mentor
-Role: Course in CCNA, LINUX, AWS, DEVOPS
+<h4>Secure Dynamic Web Application Deployment on AWS</h4>
+<ul>
+<li>Architected and deployed a secure web application on AWS using EC2, S3, VPC, and IAM.</li>
+</ul>
 
-Location: Pune, India
+<h4>Host a Static Website on Amazon S3</h4>
+<ul>
+<li>Deployed and configured a static website on Amazon S3.</li>
+</ul>
 
-Period: Mar 2025 - Present
+<h3>🎓 Education</h3>
+<h4>Bachelor of Engineering in Computer Engineering (Pursuing)</h4>
+Vidya Vikas Pratishthan Institute of Engineering & Technology (2022-2025).
 
-Responsibilities:
+<h4>Diploma in Computer Engineering</h4>
+A. G. Patil Polytechnic Institute (2019-2022).
 
-Implemented and maintained network infrastructure based on CCNA principles, focusing on subnetting, VLANs, and routing for secure and efficient data communication.
-
-Deployed and managed core AWS services including EC2, S3, IAM, and VPC. Hosted a static website on S3 and a dynamic application on EC2, demonstrating practical application of cloud resources.
-
-Performed system-level tasks such as user and group management, disk management, and setting file permissions. Wrote Bash scripts for job automation and routine maintenance.
-
-Currently expanding skill set to include DevOps methodologies and tools for CI/CD.
-
-Acmegrade
-Role: Intern in Cloud Computing
-
-Location: Solapur, India
-
-Period: Mar 2024 - Apr 2024
-
-Responsibilities:
-
-Contributed to infrastructure improvement initiatives by optimizing cloud deployments across 5 diverse environments, achieving a 25% reduction in configuration errors through best practices.
-
-🎓 Education
-Vidya Vikas Pratishthan Institute of Engineering & Technology
-Degree: Bachelor of Engineering in Computer Engineering [Pursuing]
-
-Location: Solapur, India
-
-Period: 2022 - 2025
-
-A. G. Patil Polytechnic Institute
-Degree: Diploma in Computer Engineering [75.89%]
-
-Location: Solapur, India
-
-Period: 2019 - 2022
-
-🏆 Certifications
-Internship in Cloud Computing - Mar 2024
-
-Course in CCNA - Mar 2025
-
-Course in AWS - Jun 2025
+<h3>📫 Connect with Me</h3>
+<div align="center">
+<a href="https://www.linkedin.com/in/yash-jadhav-783038330" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
+<a href="mailto:jadhavpc0707@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+</a>
+</div>
